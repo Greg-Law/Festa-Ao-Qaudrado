@@ -1,0 +1,20 @@
+
+
+
+<img id="f2" src="C:\Users\BOSS\Desktop\Festa Ao Quadrado²\img\Festa².png"/>
+
+#f2 {
+			height: 100%;
+   			width: 100%;
+   			flex-direction: column;
+   			position: relative;
+		}
+
+background-image:url("./img/Festa².png");
+
+<h2>Trazendo afeto através de bolos e doces, Feitos com muito Amor!💕</h2>
+
+<img src="https://via.placeholder.com/600x150" alt="placeholder">
+
+<img id="f2" src="C:\Users\BOSS\Desktop\Festa Ao Quadrado²\img\Logotipo.png"/>		
+					<div id="menu2">
